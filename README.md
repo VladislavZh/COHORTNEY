@@ -3,10 +3,10 @@ Here we provide the implementation of COHORTNEY.
 The publication is currently under review.
 
 ## Data
-We provide 15 datasets: 12 synthetic and 3 real-world. All datasets are
-in the 'data' folder:
+We provide 17 datasets: 12 synthetic and 5 real-world. All datasets are
+in the GDrive: https://drive.google.com/drive/folders/1xSjHx7SQDEefgCuAeP21NLOabIpL13XH?usp=sharing
 - data/[sin_,trunc_]Kx_C5 - synthetic datasets
-- data/[Age,Linkedin,IPTV] - real world datasets
+- data/[Age,Linkedin,IPTV,ATM,Booking] - real world datasets
 
 ##  Method
 We use an LSTM-based model to estimate the intensity as
