@@ -32,7 +32,10 @@ python run.py --path_to_files data/K5_C5 --n_steps 128 --n_clusters 1
 --updated_lr 0.001 --max_computing_size 800 --device cuda:0
 ```
 
-To run all the experiments run 'start.sh' script. 
+To run all the experiments run 'start.sh' script:
+```
+./start.sh
+```
 
 All the results and the parameters are stored in 'experiments/[save_dir]' folder:
 - 'experiments/[save_dir]/args.json' has the parameters.
